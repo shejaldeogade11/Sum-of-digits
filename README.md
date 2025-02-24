@@ -1,1 +1,1 @@
-# Sum-of-digits
+# Factor of given number
